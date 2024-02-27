@@ -1,8 +1,8 @@
-.navigation {
+.menu {
   padding: 25px 0;
 }
 
-.navigation__title {
+.menu__title {
   margin-bottom: 20px;
   padding-left: 15px;
 
@@ -10,15 +10,15 @@
   font-weight: 700;
 }
 
-.navigation__items {
+.menu__items {
   margin: 0;
 }
 
-.navigation__item {
+.menu__item {
   margin-bottom: 10px;
   color: #02535f;
 }
 
-.navigation__item:last-child {
+.menu__item:last-child {
   margin-bottom: 0;
 }
