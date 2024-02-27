@@ -85,32 +85,9 @@ iframe {
   margin: 0 auto;
 }
 
-.container--gray {
+.container-gray {
   padding: 25px 30px;
 
   background-color: #f1f1f1;
   border-radius: 10px;
-}
-
-.section {
-  padding: 25px 0;
-}
-
-.section__title {
-  margin-bottom: 30px;
-
-  font-size: 36px;
-  font-weight: 900;
-}
-
-.section__text:not(:last-child) {
-  margin-bottom: 30px;
-}
-
-.section__img {
-  margin: 0 auto 30px;
-}
-
-.section__img:last-child {
-  margin-bottom: 0;
 }
