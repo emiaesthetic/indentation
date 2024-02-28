@@ -10,8 +10,9 @@
   font-weight: 700;
 }
 
-.menu__items {
-  margin: 0;
+.menu__list {
+  padding-left: 40px;
+  list-style-type: decimal;
 }
 
 .menu__item {

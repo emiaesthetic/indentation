@@ -1,8 +1,8 @@
-.recap {
+.resume {
   padding: 25px 0;
 }
 
-.recap__title {
+.resume__title {
   margin-bottom: 20px;
   padding-left: 15px;
 
@@ -10,15 +10,15 @@
   font-weight: 900;
 }
 
-.recap__items {
+.resume__list {
   margin-bottom: 30px;
 }
 
-.recap__item {
+.resume__item {
   margin-bottom: 10px;
   padding-left: 16px;
 }
 
-.recap__item:last-child {
+.resume__item:last-child {
   margin-bottom: 0;
 }
